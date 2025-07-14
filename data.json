@@ -1,0 +1,133 @@
+{
+    "name": "FileExplorer",
+    "type": "Folder",
+    "children": [
+        {
+            "name": "node_modules",
+            "type": "Folder",
+            "children": []
+        },
+        {
+            "name": "public",
+            "type": "Folder",
+            "children": [
+                {
+                    "name": "index.html",
+                    "type": "File"
+                },
+                {
+                    "name": "favicon.icon",
+                    "type": "File"
+                },
+                {
+                    "name": "roborts.text",
+                    "type": "File"
+                },
+                {
+                    "name": "manifest.json",
+                    "type": "File"
+                }
+            ]
+        },
+        {
+            "name": "src",
+            "type": "Folder",
+            "children": [
+                {
+                    "name": "asserts",
+                    "type": "Folder",
+                    "children": [
+                        {
+                            "name": "Images",
+                            "type": "Folder",
+                            "children": [
+                                {
+                                    "name": "image",
+                                    "type": "File"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Style",
+                            "type": "Folder",
+                            "children": [
+                                {
+                                    "name": "style.css",
+                                    "type": "File"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Components",
+                    "type": "Folder",
+                    "children": [
+                        {
+                            "name": "Home.jsx",
+                            "type": "File"
+                        }
+                    ]
+                },
+                {
+                    "name": "Services",
+                    "type": "Folder",
+                    "children": [
+                        {
+                            "name": "Action",
+                            "type": "Folder",
+                            "children": [
+                                {
+                                    "name": "Action.jsx",
+                                    "type": "File"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Reducer",
+                            "type": "Folder",
+                            "children": [
+                                {
+                                    "name": "Reducer.jsx",
+                                    "type": "File"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Constant",
+                            "type": "File"
+                        }
+                    ]
+                },
+                {
+                    "name": "App.jsx",
+                    "type": "File"
+                },
+                {
+                    "name": "main.jsx",
+                    "type": "File"
+                }
+            ]
+        },
+        {
+            "name": "gitignor",
+            "type": "File"
+        },
+        {
+            "name": "package-lock.json",
+            "type": "File"
+        },
+        {
+            "name": "package.json",
+            "type": "File"
+        },
+        {
+            "name": "README.md",
+            "type": "File"
+        },
+        {
+            "name": "vite.config.js",
+            "type": "File"
+        }
+    ]
+}
