@@ -74,8 +74,6 @@ export const ProgressBar = () => {
           alignItems: "center",
           justifyContent: "center",
           fontWeight: "bold"
-
-          //add comment
         }}
       >
         {progress}%
