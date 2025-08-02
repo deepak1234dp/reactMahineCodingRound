@@ -1,5 +1,7 @@
 Hi ram,what about you?.
 Ram say i am fine,and you?
 Goods
-I am study?
+ What are you doing?
+
+
 
